@@ -1,6 +1,7 @@
 ### Load sql file in your database
 database.sql
 
+```SQL
 row spec.
 ID = Primary auto_increment
 Nome = Name of object in items table
@@ -9,6 +10,7 @@ Attuale = Actual price , change every time stocks change [do not insert any valu
 Min = Minium price of item
 Max = Maxium price of item
 Med = medion value [do not insert any value]
+```
 
 ### Installation, Replace at line 528 on server.lua of your gcphone the function getBourse()
 
