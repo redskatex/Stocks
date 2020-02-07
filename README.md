@@ -56,3 +56,7 @@ return 0 === t.difference ? ["fa-arrow-right", "iblue"] : t.difference < 0 ? ["f
 
 start rdsk_borsa
 start gcphone
+
+
+### DISCORD FOR MORE RESOURCE
+https://discord.gg/c5Q8qRa
